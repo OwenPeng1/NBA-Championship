@@ -1,5 +1,3 @@
-NBA Championship
-
 NBA Championship is an application that allows your to build the NBA Team of your dreams. This app allows your to select five players from any generation and place them together on the same team to compete for an NBA Championship. Select your favorite players and place them together to see if they are victorious.
 
 The first page, you select the name of your team
