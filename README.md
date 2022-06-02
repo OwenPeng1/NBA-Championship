@@ -5,3 +5,5 @@ The first page, you select the name of your team
 The second page, you select the players that you want to be on your team. They can be retired or currently playing. Type them into the input box with proper spelling. They will appear on your team. When you are satisfied with the five players to start on your team, you can press 'Done' and they will compete. The resulting page will show the predicted score and outcome of the game. 
 
 This app uses ReactJS
+
+Deployed on Heroku: https://nba-championship.herokuapp.com/
